@@ -33,8 +33,14 @@
 
 ### 2. GET CREDS.JSON VIA PAIR CODE
 
-<a href='https://replit.com/@manulwijethila2/Manul-Official-Whatsapp-Bot-Pair-Code' target="_blank"><img alt='Get Creds.json' src='https://img.shields.io/badge/Click here to get your creds.json-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+ Get Creds.json (Server 1)
+    <br>
+     <a href='https://manu-pair.onrender.com' target="_blank"><img alt='CREDS.JSON' src='https://img.shields.io/badge/Creds.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+
+ Get Creds.json (Server 2) (use this if server 1 Doesn't work)
+    <br>
+<a href='https://replit.com/@manulwijethila2/Manul-Official-Whatsapp-Bot-Pair-Code' target="_blank"><img alt='CREDS.JSON' src='https://img.shields.io/badge/Creds.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### DEPLOY TO HEROKU
